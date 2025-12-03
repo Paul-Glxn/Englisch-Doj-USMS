@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Vortrag: DOJ &amp; USMS </title>
+  <title>Vortrag: DOJ &amp; USMS (für 8. Klasse)</title>
   <style>
     :root{--bg:#f3f6fb;--card:#ffffff;--accent:#1f6feb;--muted:#555}
     body{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:var(--bg); margin:0; padding:20px;}
@@ -44,6 +44,8 @@
         <ul>
           <li>DOJ = Justizministerium der USA</li>
           <li>USMS = Bundespolizei für Gerichte und Festnahmen</li>
+          <li>Beide gehören zur Bundesregierung</li>
+          <li>Beide arbeiten in ganz Amerika</li>
         </ul>
       </section>
 
@@ -57,7 +59,7 @@
           <li>Es vertritt die USA vor Gericht, wenn geklagt wird.</li>
           <li>Es bekämpft schwere Verbrechen wie Terrorismus, Drogenhandel und große Betrugsfälle.</li>
         </ul>
-        <p>Zum DOJ gehören viele bekannte Organisationen wie das FBI oder die Drogenbehörde DEA. Diese sammeln Beweise, führen Ermittlungen durch und melden alles an das Justizministerium.</p>
+        <p>Zum DOJ gehören viele bekannte Organisationen wie das FBI oder die Drogenbehörde DEA. Außerdem kümmert sich das DOJ auch um Bürgerrechte und achtet darauf, dass niemand wegen Hautfarbe, Religion oder Herkunft unfair behandelt wird. Es kann eingreifen, wenn Bundesstaaten gegen die Verfassung verstoßen. Diese sammeln Beweise, führen Ermittlungen durch und melden alles an das Justizministerium.</p>
       </section>
 
       <!-- Slide 3 -->
@@ -70,11 +72,18 @@
           <li>Transport und Bewachung von Gefangenen</li>
           <li>Sicherung von Gerichtsgebäuden</li>
         </ul>
-        <p>US Marshals sind oft dort im Einsatz, wo es gefährlich wird. Sie begleiten wichtige Personen und sorgen dafür, dass Gerichte sicher ablaufen können.</p>
+        <p>US Marshals sind oft dort im Einsatz, wo es gefährlich wird. Sie arbeiten verdeckt, observieren Verdächtige und planen Einsätze genau. Häufig arbeiten sie auch mit anderen Behörden zusammen, zum Beispiel mit lokalen Polizeieinheiten oder dem FBI. Sie begleiten wichtige Personen und sorgen dafür, dass Gerichte sicher ablaufen können.</p>
       </section>
 
       <!-- Slide 4 -->
       <section class="slide" data-slide="4">
+        <p><strong>Bekannte Fälle und Einsätze:</strong></p>
+        <ul>
+          <li><strong>Al Capone:</strong> Das Justizministerium sorgte dafür, dass der berühmte Gangster verurteilt wurde – nicht für Mord, sondern wegen Steuerhinterziehung.</li>
+          <li><strong>Zeugenschutzprogramm:</strong> Das DOJ und der USMS schützen wichtige Zeugen, die gegen gefährliche Verbrecher aussagen.</li>
+          <li><strong>Große Fahndungen:</strong> US Marshals sind bekannt dafür, besonders gefährliche Flüchtige aufzuspüren.</li>
+          <li><strong>Bürgerrechts-Fälle:</strong> Das DOJ greift ein, wenn Menschen unfair behandelt oder diskriminiert werden.</li>
+        </ul>
         <h2>Unterschiede zwischen DOJ und USMS</h2>
         <p>Beide Behörden arbeiten eng zusammen, haben aber unterschiedliche Aufgaben:</p>
         <ul>
@@ -82,7 +91,7 @@
           <li>Der USMS führt praktische Einsätze durch.</li>
           <li>Das DOJ entscheidet rechtlich, der USMS handelt vor Ort.</li>
         </ul>
-        <p>Man kann sagen: Das DOJ ist für die Organisation und die Gesetze zuständig, während der USMS die Umsetzung übernimmt.</p>
+        <p>Man kann sagen: Das DOJ ist für die Organisation, Planung und rechtlichen Entscheidungen zuständig, während der USMS die Umsetzung übernimmt. Beide können alleine nicht gut arbeiten, sie brauchen sich gegenseitig.</p>
       </section>
 
       <!-- Slide 5 -->
@@ -94,7 +103,7 @@
           <li>Der USMS sorgt für Sicherheit und Ordnung vor Ort.</li>
           <li>Gemeinsam schützen sie Bürger und den Staat.</li>
         </ul>
-        <p>Diese Behörden sind ein wichtiger Teil des amerikanischen Rechtssystems und tragen dazu bei, dass Gerichte, Gefängnisse und Ermittlungen ordnungsgemäß laufen.</p>
+        <p>Diese Behörden sind ein wichtiger Teil des amerikanischen Rechtssystems und tragen dazu bei, dass Gerichte, Gefängnisse und Ermittlungen ordnungsgemäß laufen. Ohne sie gäbe es Chaos im Rechtssystem und viele Straftaten würden nicht verfolgt werden.</p>
       </section>
 
     </div>
